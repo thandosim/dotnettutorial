@@ -1,0 +1,14 @@
+C:\Users\MOET-WB\Documents\byu\cse325\tutorial\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.exe
+C:\Users\MOET-WB\Documents\byu\cse325\tutorial\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.deps.json
+C:\Users\MOET-WB\Documents\byu\cse325\tutorial\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.runtimeconfig.json
+C:\Users\MOET-WB\Documents\byu\cse325\tutorial\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.dll
+C:\Users\MOET-WB\Documents\byu\cse325\tutorial\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.pdb
+C:\Users\MOET-WB\Documents\byu\cse325\tutorial\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MOET-WB\Documents\byu\cse325\tutorial\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\MOET-WB\Documents\byu\cse325\tutorial\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\MOET-WB\Documents\byu\cse325\tutorial\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\MOET-WB\Documents\byu\cse325\tutorial\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.dll
+C:\Users\MOET-WB\Documents\byu\cse325\tutorial\ConsoleApp1\obj\Debug\net10.0\refint\ConsoleApp1.dll
+C:\Users\MOET-WB\Documents\byu\cse325\tutorial\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.pdb
+C:\Users\MOET-WB\Documents\byu\cse325\tutorial\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\MOET-WB\Documents\byu\cse325\tutorial\ConsoleApp1\obj\Debug\net10.0\ref\ConsoleApp1.dll
